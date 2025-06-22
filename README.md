@@ -93,8 +93,3 @@ Achieved **0.60 macro F1 score**, demonstrating strong generalization of DistilB
 
 ---
 
-## 🚀 Getting Started
-
-### 📦 Install Dependencies
-```bash
-pip install -r requirements.txt
